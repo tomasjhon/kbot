@@ -1,5 +1,7 @@
 Asegurarse de tener instalado docker.
 
+    docker run hello-world
+
 Para acceder al ambiente de desarrollo ejecutar:
 
     docker-compose run --service-ports csd bash
