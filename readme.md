@@ -24,4 +24,4 @@ Para detener una imagen corriendo:
 
 Si se ejecuta con -d ( en segundo plano), para entrar al bash:
 
-    docker exec -it <container> bashgit 
+    docker exec -it <container> bash
